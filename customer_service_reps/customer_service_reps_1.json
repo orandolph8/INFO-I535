@@ -1,0 +1,63 @@
+[
+    {
+        "rep_id": "REP1001",
+        "name": "Rep1A Lastname",
+        "email": "rep1a@company.com",
+        "assigned_ticket_ids": [
+            "TKT1007"
+        ],
+        "performance_score": 4.92,
+        "experience_years": 5,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP1002",
+        "name": "Rep1B Lastname",
+        "email": "rep1b@company.com",
+        "assigned_ticket_ids": [
+            "TKT1000",
+            "TKT1003",
+            "TKT1002"
+        ],
+        "performance_score": 3.92,
+        "experience_years": 7,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP1003",
+        "name": "Rep1C Lastname",
+        "email": "rep1c@company.com",
+        "assigned_ticket_ids": [
+            "TKT1005",
+            "TKT1007"
+        ],
+        "performance_score": 4.52,
+        "experience_years": 8,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP1004",
+        "name": "Rep1D Lastname",
+        "email": "rep1d@company.com",
+        "assigned_ticket_ids": [
+            "TKT1008",
+            "TKT1006",
+            "TKT1009"
+        ],
+        "performance_score": 4.39,
+        "experience_years": 8,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP1005",
+        "name": "Rep1E Lastname",
+        "email": "rep1e@company.com",
+        "assigned_ticket_ids": [
+            "TKT1000",
+            "TKT1007"
+        ],
+        "performance_score": 4.88,
+        "experience_years": 8,
+        "specialty_ticket_type": "Billing"
+    }
+]

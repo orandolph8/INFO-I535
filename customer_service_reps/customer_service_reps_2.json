@@ -1,0 +1,61 @@
+[
+    {
+        "rep_id": "REP2001",
+        "name": "Rep2A Lastname",
+        "email": "rep2a@company.com",
+        "assigned_ticket_ids": [
+            "TKT2006"
+        ],
+        "performance_score": 3.94,
+        "experience_years": 1,
+        "specialty_ticket_type": "Inquiry"
+    },
+    {
+        "rep_id": "REP2002",
+        "name": "Rep2B Lastname",
+        "email": "rep2b@company.com",
+        "assigned_ticket_ids": [
+            "TKT2007"
+        ],
+        "performance_score": 4.37,
+        "experience_years": 10,
+        "specialty_ticket_type": "Technical Support"
+    },
+    {
+        "rep_id": "REP2003",
+        "name": "Rep2C Lastname",
+        "email": "rep2c@company.com",
+        "assigned_ticket_ids": [
+            "TKT2000",
+            "TKT2001",
+            "TKT2002"
+        ],
+        "performance_score": 4.13,
+        "experience_years": 2,
+        "specialty_ticket_type": "Billing"
+    },
+    {
+        "rep_id": "REP2004",
+        "name": "Rep2D Lastname",
+        "email": "rep2d@company.com",
+        "assigned_ticket_ids": [
+            "TKT2008"
+        ],
+        "performance_score": 4.68,
+        "experience_years": 6,
+        "specialty_ticket_type": "Technical Support"
+    },
+    {
+        "rep_id": "REP2005",
+        "name": "Rep2E Lastname",
+        "email": "rep2e@company.com",
+        "assigned_ticket_ids": [
+            "TKT2004",
+            "TKT2008",
+            "TKT2003"
+        ],
+        "performance_score": 4.01,
+        "experience_years": 1,
+        "specialty_ticket_type": "Billing"
+    }
+]

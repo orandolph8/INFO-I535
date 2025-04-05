@@ -1,0 +1,62 @@
+[
+    {
+        "rep_id": "REP001",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@company.com",
+        "assigned_ticket_ids": [
+            "TKT1000",
+            "TKT1007"
+        ],
+        "performance_score": 4.77,
+        "experience_years": 9,
+        "specialty_ticket_type": "Technical Support"
+    },
+    {
+        "rep_id": "REP002",
+        "name": "Bob Smith",
+        "email": "bob.smith@company.com",
+        "assigned_ticket_ids": [
+            "TKT1001"
+        ],
+        "performance_score": 4.75,
+        "experience_years": 7,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP003",
+        "name": "Carla Diaz",
+        "email": "carla.diaz@company.com",
+        "assigned_ticket_ids": [
+            "TKT1006",
+            "TKT1000",
+            "TKT1002"
+        ],
+        "performance_score": 4.06,
+        "experience_years": 6,
+        "specialty_ticket_type": "Inquiry"
+    },
+    {
+        "rep_id": "REP004",
+        "name": "David Liu",
+        "email": "david.liu@company.com",
+        "assigned_ticket_ids": [
+            "TKT1006",
+            "TKT1002"
+        ],
+        "performance_score": 4.58,
+        "experience_years": 10,
+        "specialty_ticket_type": "Complaint"
+    },
+    {
+        "rep_id": "REP005",
+        "name": "Eva Thompson",
+        "email": "eva.thompson@company.com",
+        "assigned_ticket_ids": [
+            "TKT1000",
+            "TKT1002"
+        ],
+        "performance_score": 4.64,
+        "experience_years": 7,
+        "specialty_ticket_type": "Billing"
+    }
+]
